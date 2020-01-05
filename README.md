@@ -1,4 +1,4 @@
-# 这是一个撩妹页面
+# 这是一个静态页面
 
 > [预览](https://immapan.github.io/pick-up-girls/) 
 ### 更改index.html文件即可。
